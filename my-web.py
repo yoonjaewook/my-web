@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.title("🎒 딸을 위한 여름방학 카운트다운 ⏰")
+st.title("🎒 채연이를 위한 여름방학 카운트다운 ⏰")
 st.write("다음 주 목요일 개학까지 남은 시간을 실시간으로 확인해보세요!")
 
 timer_html = """
